@@ -1,0 +1,13 @@
+black
+flake8
+pytest
+pytest-timeout
+requests
+beautifulsoup4
+geopandas
+pandas
+folium
+wordcloud
+seaborn
+matplotlib
+numpy
